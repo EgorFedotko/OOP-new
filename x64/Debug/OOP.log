@@ -1,0 +1,3 @@
+﻿  OOP.cpp
+C:\Users\Admin\OneDrive\Рабочий стол\OOP-main\OOP.cpp(464,14): warning C4101: automachine: неиспользованная локальная переменная
+  OOP.vcxproj -> C:\Users\Admin\OneDrive\Рабочий стол\OOP-main\x64\Debug\OOP.exe
